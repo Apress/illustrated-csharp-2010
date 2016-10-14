@@ -1,0 +1,5 @@
+These directories contain the source code from the text of "Illustrated C# 2010". All the code samples from a particular chapter are contained in directories named with the chapter number.  Inside these chapter directories, are subdirectories named for the page number in the book, where the program is listed.
+
+Although each program is in a directoy named for the page number, you might notice that some of the solutions and projects within these directories have a different page number.  Although this doesn't affect the use of these programs in any way, you might be curious as to why there's a discrepancy between the directory with book's page number, and the numbering used inside these directories.  The page numbering inside these directories refers to the relative page in the chapter from which the code came, as opposed to the absolute page number of the finished book.
+
+Dan
